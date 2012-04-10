@@ -1,0 +1,24 @@
+## alewrites teaching Perl for friends. 
+
+Before we start, make sure you have done the 'Set Up Git' step in github. 
+
+http://help.github.com/
+
+The next piece is that you will need to give me your screen name so you can clone my repository for the perl programming, which is the following:
+(note: if you already gave me your screen name back in the c++ teaching, you will have access to this repo, so just clone it.)
+
+git@github.com:learnstuff/perl.git
+
+Afterwards, make your home directory, for this repository, your first name. (if you need an example, see my directory in the repository after you cloned it). All your work will be inside this home directory for you. Finally, the rest is fairly simple. Make sure you have the necessary Perl dependencies. *NOTE*, if you are using windows, for all that is holy in the world, install the strawberry perl environment. That will make my life 1000x easier. 
+
+http://www.perl.org/get.html
+
+I will give a certain date when to finish a chapter or section, and will give work according to that. We should be done with the intro book, by roughly a month from now. Also, you don't need an IDE to learn a scripting language. So if you want an ide, just literally pick anything, that supports perl syntax.
+
+So to start off, we will use the 'Learning Perl 4th Edition (2005)' book.
+
+Since Perl is a scripting language, it is fairly easy to breeze through and learn the language in like a month. However, I will be going pretty extensive in learning what we need to know. Also, since these books are old in reference to programming techniques and stuff, I will teach any techniques that are used now, in comparison to what was seen here. However, the techniques shown here are pretty standard as well. I will give you an option to decide on how to do the coding, seeing as this is a scripting language after all.
+
+Anyway, we will learn the language in split increments. The fist part will be learning the basics which is the 1st book we are using. The next part is learning about simple object manipulation and system administrative understanding. That will be in 'Intermediate Perl (2006)' and 'Perl for System Administration' books. Finally we will learn on how to do object references and modules in perl, which we will use the 'Advanced perl programming 2nd Edition (2005)' and 'Learning Perl Objects References and Modules' books.  All of this should be done in roughly 3-4 months. I don't expect it to take even that long. Don't get freaked out by the amount of books we are using. They are split down to very specific stuff. The 'chapters' in each of these is comparable to subsections in other programming books. So when I say one book, think of it as like we are just learning only 2-3 chapters on a normal programming book.
+
+Have fun with this, and happy coding. 
