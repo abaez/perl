@@ -1,0 +1,17 @@
+#Chapter 1.6 Exercise 2
+#Answer
+
+=over 8
+
+=item atan2 Y,X
+ATAN2 ARCTANGENT TAN TANGENT
+
+Returns the arctangent of Y/X in the range -PI to PI.
+
+For the tangent operation, you may use the MATH::TRIG::TAN
+function, or use the familiar relation:
+
+    sub tan { sin($_[0]) / cos($_[0])  }
+
+The return value for ATAN2(0,0) is implementation-defined; consult
+your atan2(3) manpage for more information.
