@@ -1,0 +1,8 @@
+#!/usr/bin/perl -w		//Checks for erros when needed. 
+#use diagnostics; <--- This command does a debug in a sense for the program. Use it only when needed, because of how more processing power.
+
+#this is a test using what was learned from sections 2.1-2.3.... Not a lot of stuff. 
+
+print "Hello" . " World\n" x 10; #printing hello and then fusion world. After words printing world times 10
+
+print 5 + 5;

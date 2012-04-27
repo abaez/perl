@@ -1,0 +1,26 @@
+#!/usr/bin/perl
+
+#small example from the stuff learned in sections 2.3-2.6
+
+$s1 = 'Hello '; #Using single quote. Remember that this doesn't allow for \ commands
+$s2 = 'World ';
+
+#print $s1, " ", $s2, "\n" ; #Puts the two words together
+
+#Now to use a little bit mor3 advance tricks
+
+$trick = $s1 . $s2; #keeping both together
+
+print ("So I want to say $trick,\nbut I can't seem to figure how many times. :\( \n",
+	"Tell me how many times please. :\)\n"); #Using the parenthesis to show the usefulness.
+
+$num = <STDIN>;
+$hi = $trick x $num; #multiplying the string $trick to print $num amount of times.
+
+#$magic = print ("$hi\n"); #Yes, perl can take commands and do this type of magic :)
+
+if ($num <= 20) {
+  print ("$hi\n");
+} else {
+  print ("I don't want to print ${trick}s $num\nIt's just too many man!\n");
+}
