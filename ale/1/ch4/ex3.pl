@@ -14,8 +14,6 @@ sub avg {	#doing a simple average algorithm for the supplied @in value.
   $done = $tot/@in; #the return is the average.
 }
 
-chomp(@in = <STDIN>);	#Love using defined variables, so just preference really on how to do it. Feels cleaner.
-#@in = (1..20);		#simple check to see if things are working
 
 sub outlayer {		#here is where the outlayer is found
   my(@sort,@done,$num);
@@ -28,6 +26,9 @@ sub outlayer {		#here is where the outlayer is found
 
   @done;	#the return to say things are done.
 }
+
+chomp(@in = <STDIN>);	#Love using declared variables, just preference really on how to do it. Feels cleaner.
+#@in = (1..20);		#simple check to see if things are working
 
 @outlayer = &outlayer;
 print "The outlayer is/are:\t@outlayer","\n";
