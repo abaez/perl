@@ -7,7 +7,7 @@ open(FILE0, "<", "fred.txt");
 
 while (<FILE0>) {
   if(/[FRD][fred]+/){	#checking a format of fred to not be all caps but require a caps
-    print;
+    print "$1";
   }
 }
 
