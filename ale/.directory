@@ -1,5 +1,15 @@
 [Dolphin]
 GroupedSorting=true
 Sorting=6
+<<<<<<< HEAD
+<<<<<<< HEAD
 Timestamp=2012,4,9,13,35,38
 ViewMode=2
+=======
+Timestamp=2012,5,16,13,20,35
+ViewMode=1
+>>>>>>> f68506f2e1241a1cd206414e7540ece3b905d434
+=======
+Timestamp=2012,4,9,13,35,38
+ViewMode=2
+>>>>>>> a41bb971f8484da64cbab3098231c460340f789d
