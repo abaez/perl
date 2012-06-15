@@ -35,6 +35,10 @@ symlink "hi", "person"; #ln -s hi person
 # remove a link
 unlink name_of_link;
 
+<<<<<<< HEAD
+
+=======
+>>>>>>> a41bb971f8484da64cbab3098231c460340f789d
 # make a directory
 mkdir "bob", 0755; # make the directory and permissions of that directory
 
@@ -44,6 +48,14 @@ mkdir "bob", oct($perm); #same as line 39, but the oct function treats the numbe
 ($name, $deci) = @ARGV; #get the input from cli of user
 mkdir $name, oct($deci); #make the directory
 
+<<<<<<< HEAD
+
+# remove a file
+rm "bob";
+
+
+=======
+>>>>>>> a41bb971f8484da64cbab3098231c460340f789d
 # remove a directory
 rmdir glob "test/*"; # removes all the empty directories in test.
 
