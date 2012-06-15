@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> a41bb971f8484da64cbab3098231c460340f789d
 ## alewrites teaching Perl for friends. 
 
 Before we start, make sure you have done the 'Set Up Git' step in github. 
@@ -25,11 +21,4 @@ Since Perl is a scripting language, it is fairly easy to breeze through and lear
 
 Anyway, we will learn the language in split increments. The fist part will be learning the basics which is the 1st book we are using. The next part is learning about simple object manipulation and system administrative understanding. That will be in 'Intermediate Perl (2006)' and 'Perl for System Administration' books. Finally we will learn on how to do object references and modules in perl, which we will use the 'Advanced perl programming 2nd Edition (2005)' and 'Learning Perl Objects References and Modules' books.  All of this should be done in roughly 3-4 months. I don't expect it to take even that long. Don't get freaked out by the amount of books we are using. They are split down to very specific stuff. The 'chapters' in each of these is comparable to subsections in other programming books. So when I say one book, think of it as like we are just learning only 2-3 chapters on a normal programming book.
 
-<<<<<<< HEAD
 Have fun with this, and happy coding. 
-=======
-change
->>>>>>> f68506f2e1241a1cd206414e7540ece3b905d434
-=======
-Have fun with this, and happy coding. 
->>>>>>> a41bb971f8484da64cbab3098231c460340f789d
