@@ -1,3 +1,11 @@
 [Project]
 Manager=KDevGenericManager
+<<<<<<< HEAD
+<<<<<<< HEAD
 Name=Perl Teaching
+=======
+Name=C++ teaching
+>>>>>>> f68506f2e1241a1cd206414e7540ece3b905d434
+=======
+Name=Perl Teaching
+>>>>>>> a41bb971f8484da64cbab3098231c460340f789d
